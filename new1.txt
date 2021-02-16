@@ -1,9 +1,4 @@
 asdGit is aaversion control system.
 1111Git is free software.
-<<<<<<< HEAD
-23
-23
-=======
-23
-23
->>>>>>> feature
+21
+21aa
